@@ -177,7 +177,7 @@ span {
   right: -4em !important;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   .nav {
     display: none !important;
   }
